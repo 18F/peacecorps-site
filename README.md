@@ -9,7 +9,7 @@ See the extended [User Documentation](http://peace-corps-cms.readthedocs.org/en/
 
 ## Setup
 
-This is a Django application that depends on Python 3. For easy of use, we've included a `Vagrantfile` that will get you up and running in a nice, easy to use development environment.
+This is a Django application that depends on Python 3. For ease of use, we've included a `Vagrantfile` that will get you up and running in a nice, easy to use development environment.
 
 ### Installing Vagrant
 Download and install Vagrant from https://www.vagrantup.com/
